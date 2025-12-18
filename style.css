@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
 }
-
+<!-- 50vh = Half the screen height.
+     100vh = Exactly the full height of the screen.-->
 body {
   display: flex;
   justify-content: center;
